@@ -1,0 +1,4 @@
+com\utc\crudutc\model\Vehicle.class
+com\utc\crudutc\controller\VehicleController.class
+com\utc\crudutc\dao\VehicleDao.class
+com\utc\crudutc\db\DbUtil.class
